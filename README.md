@@ -1,8 +1,5 @@
 # **BeReal Export Converter 📸**
-![License: MIT](https://img.shields.io/badge/License-MIT-green)  
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)  
-![Status](https://img.shields.io/badge/Status-Stable-success)  
-[![Star on GitHub](https://img.shields.io/github/stars/mrgenty/BeReal-Export-Converter.svg?style=social)](https://github.com/mrgenty/BeReal-Export-Converter/stargazers)  
 
 **🔗 Questo progetto è indipendente e non affiliato a BeReal.**  
 Uno script Python progettato per elaborare l'esportazione ai sensi del **GDPR** ricevuta da **BeReal**.  
