@@ -5,6 +5,12 @@ Il tool converte le immagini **WebP** in **JPG**, aggiunge i metadati mancanti d
 
 ---
 
+## 📜 Licenza
+Questo progetto è rilasciato sotto la [Licenza MIT](LICENSE). Sentiti libero di usarlo e migliorarlo!
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
+
+---
+
 ## 🌟 Funzionalità
 - Converte le immagini `.webp` esportate da BeReal in `.jpg`.
 - Aggiunge i seguenti metadati EXIF:
