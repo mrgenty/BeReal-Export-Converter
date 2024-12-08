@@ -101,7 +101,7 @@ Contribuire ai progetti open-source è un ottimo modo per imparare e aiutare la 
 
 ---
 
-## 📣 **Contattaci**
+## 📣 **Contattami**
 📧 Se hai suggerimenti, domande o richieste di supporto, sentiti libero di contattarmi o aprire una **issue**.  
 Contributi e feedback sono sempre benvenuti!  
 
@@ -109,7 +109,6 @@ Contributi e feedback sono sempre benvenuti!
 
 ## ⚠️ **Disclaimer**
 > 🔒 **Questo progetto è indipendente e non affiliato a BeReal.**  
-> ⚠️ Usalo responsabilmente e rispetta la privacy altrui.  
 
 ---
 
